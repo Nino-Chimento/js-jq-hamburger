@@ -101,4 +101,7 @@ header {
     .hamburger-menu.active {
         display: block;
     }
+    .display{
+      display: block;
+    }
 }
