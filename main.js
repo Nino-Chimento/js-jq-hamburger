@@ -5,11 +5,11 @@
 //     $("a").addClass("red");
 //   }
 // );
-// $(".hamburger-menu a").click(
-//   function () {
-//       $(".hamburger-menu").hide(1000);
-//   }
-// );
+$(".hamburger-menu a").click(
+  function () {
+      $(".hamburger-menu").hide(1000);
+  }
+);
 
 var hidden = true
 $("a").click(
