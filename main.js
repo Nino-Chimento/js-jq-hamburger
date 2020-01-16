@@ -4,3 +4,8 @@ $("a").click(
     $(".hamburger-menu").show();
   }
 );
+$(".hamburger-menu a").click(
+  function () {
+    log("ni")
+  }
+);
